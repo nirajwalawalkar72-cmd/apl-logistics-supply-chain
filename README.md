@@ -61,3 +61,45 @@ and **5 major markets**.
 ---
 
 ## 🗂️ Project Structure
+---
+
+## ⚡ How to Run Dashboard
+
+```bash
+# Clone repo
+git clone https://github.com/YOUR_USERNAME/apl-logistics-supply-chain.git
+
+# Install dependencies
+pip install pandas numpy matplotlib seaborn plotly streamlit
+
+# Run dashboard
+streamlit run dashboard/apl_dashboard.py
+```
+
+---
+
+## 🛠️ Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+| Python 3.10 | Core language |
+| Pandas & NumPy | Data analysis |
+| Matplotlib & Seaborn | Static charts |
+| Plotly | Interactive charts |
+| Streamlit | Live dashboard |
+
+---
+
+## 📁 Deliverables
+
+- [x] 📓 Jupyter Notebook EDA
+- [x] 🖥️ Streamlit Live Dashboard
+- [x] 📄 Research Paper
+- [x] 📋 Executive Summary
+
+---
+
+## 👨‍💻 Author
+**Niraj** | Data Analyst | APL Logistics Project | KWE Group | 2024
+
+<p align="center">⭐ Star this repo if you found it helpful!</p>
